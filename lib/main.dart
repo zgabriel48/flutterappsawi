@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       mainAxisAlignment: MainAxisAlignment.start,
                       children: [
                         Text(
-                          "Kelembaban Tanah",
+                          "Suhu Udara",
                           style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.w700,
@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       mainAxisAlignment: MainAxisAlignment.start,
                       children: [
                         Text(
-                          "Kelembaban Tanah",
+                          "Intensitas Cahaya",
                           style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.w700,
@@ -120,7 +120,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       mainAxisAlignment: MainAxisAlignment.start,
                       children: [
                         Text(
-                          "Kelembaban Tanah",
+                          "Kelembaban Uda",
                           style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.w700,
